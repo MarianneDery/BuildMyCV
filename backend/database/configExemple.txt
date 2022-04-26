@@ -1,0 +1,5 @@
+User = USER
+Password = PASSWORD
+Database = DATABASE
+Server = SERVER
+Port = PORT
